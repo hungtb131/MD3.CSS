@@ -1,0 +1,12 @@
+h1 {
+    color: #d14836;
+    align-content: baseline;
+    font-family: Times New Roman;
+}
+p {
+    color: #4CAF50;
+    font-size: larger;
+}
+body {
+    background-image:url("https://images.pexels.com/photos/2574672/pexels-photo-2574672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
